@@ -195,6 +195,41 @@ Analysis tables and model outputs are stored in:
 results/
 ```
 
+## Visualization Results
+
+### Station Load Patterns
+
+Annual charging load patterns for different EV charging stations during 2024.
+
+![Station Load Patterns](figures/01_station_load_patterns.png)
+
+
+### Daily Load Profiles by Station Type
+
+Average daily charging behavior comparison among different station categories.
+
+![Station Type Comparison](figures/02_station_type_comparison_daily.png)
+
+
+### Charging Pattern Clustering
+
+K-means clustering identifies representative daily charging shapes.
+
+![K-means Clustering](figures/03_kmeans_results_cluster_shapes.png)
+
+
+### Machine Learning Interpretation
+
+SHAP analysis explains the important time features influencing station classification.
+
+![SHAP Feature Importance](figures/04_rf_shap_results_shap_overall_importance.png)
+
+
+### Charging Simultaneity Analysis
+
+Contribution of each station to the system combined peak demand.
+
+![Simultaneity Contribution](figures/05_simultaneity_contribution.png)
 
 ## Author
 
