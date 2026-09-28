@@ -1,0 +1,22 @@
+MP-EVData Time-of-Use Price Response Analysis
+
+Included stations:
+A1, A2, A3, A5, A6 and A10.
+
+Exclusions:
+A4 and A9 had no numerical tariff prices.
+A7 and A8 recorded charging or swapping counts rather than electrical power.
+A5 contained 248 intervals at 21:00–21:45 in January and December
+that were not assigned to any tariff period in the source workbook.
+These intervals were retained for auditing but excluded from tariff calculations.
+
+Method:
+Energy in each 15-minute interval was calculated as power_kW × 0.25 hours.
+The energy concentration ratio was calculated as:
+
+energy share (%) / time share (%)
+
+A ratio above 1 indicates that a tariff period contains more charging
+energy than expected from its duration. Results are descriptive and do
+not establish causal price elasticity because tariff periods coincide
+with recurring station operating schedules.

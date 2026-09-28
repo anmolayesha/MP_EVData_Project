@@ -1,0 +1,2 @@
+period_start,period_end,number_of_stations,interval_minutes,sum_individual_peaks_kW,combined_peak_kW,combined_peak_time,simultaneity
+2024-09-27,2024-12-31 23:45:00,8,15,18277.0,15734.6,2024-12-11 23:15:00,0.8608962083492915
