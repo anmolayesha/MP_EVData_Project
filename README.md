@@ -135,17 +135,31 @@ Calculated:
 - Simultaneity coefficient
 - Station contribution to combined peak demand
 
+## Research Workflow
+
+The complete analysis workflow follows these steps:
+
+1. Dataset acquisition and organization
+2. Data quality assessment and preprocessing
+3. Station-level and time-level feature extraction
+4. Load profile visualization and comparison
+5. Daily charging pattern clustering using K-means
+6. Station type classification using Random Forest
+7. SHAP-based model interpretation
+8. Charging simultaneity evaluation
+9. Time-of-use price response analysis
+
 
 ## Key Results
 
-The analysis generated:
+The study provides:
 
-- Station load pattern visualization
-- Station type comparison figures
-- K-means charging pattern clusters
-- Random Forest classification results
-- SHAP interpretation plots
-- Simultaneity analysis results
+- Identification of charging behavior differences among EV station archetypes
+- Representative daily charging patterns through clustering analysis
+- Machine learning-based classification of station categories
+- Interpretation of classification decisions using SHAP values
+- Quantification of system-level peak demand interaction through simultaneity analysis
+- Evaluation of potential charging response under TOU pricing scenarios
 
 
 ## Reproducibility
