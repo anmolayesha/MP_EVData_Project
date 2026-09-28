@@ -197,29 +197,29 @@ results/
 
 ## Visualization Results
 
-### Station Load Patterns
+### 1. Station Load Patterns
 
-![Station Load Patterns](report/figures_used/station_load_patterns.png)
-
-
-### Daily Load Profiles by Station Type
-
-![Station Type Comparison](report/figures_used/02_station_type_comparison_daily.png)
+![Station Load Patterns](report/figures_used/1_station_load_patterns.png)
 
 
-### Charging Pattern Clustering
+### 2. Station Type Comparison
 
-![K-means Clustering](report/figures_used/03_kmeans_results_cluster_shapes.png)
-
-
-### SHAP Feature Importance
-
-![SHAP Feature Importance](report/figures_used/04_rf_shap_results_shap_overall_importance.png)
+![Station Type Comparison](report/figures_used/2_station_type_comparison_daily.png)
 
 
-### Simultaneity Contribution
+### 3. K-means Charging Pattern Clusters
 
-![Simultaneity Contribution](report/figures_used/05_simultaneity_contribution.png)
+![K-means Results](report/figures_used/3_kmeans_results_cluster_shapes.png)
+
+
+### 4. Random Forest SHAP Feature Importance
+
+![SHAP Feature Importance](report/figures_used/4_rf_shap_results_shap_overall_importance.png)
+
+
+### 5. Simultaneity Analysis
+
+![Simultaneity Contribution](report/figures_used/5_simultaneity_contribution.png)
 
 ## Author
 
