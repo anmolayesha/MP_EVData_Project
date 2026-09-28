@@ -49,7 +49,6 @@ MP_EVData_Project/
 │   └── 01_MP_EVData_Reproducible_Analysis.ipynb
 
 ├── data/
-│   └── Raw dataset files (not included)
 
 ├── results/
 │   ├── kmeans_results/
@@ -57,11 +56,10 @@ MP_EVData_Project/
 │   ├── simultaneity_results/
 │   └── tou_price_response_results/
 
-├── figures/
-│   └── Generated analysis figures
-
 ├── report/
 │   └── figures_used/
+
+├── figures/
 
 └── downloaded_zips/
     └── Original downloaded dataset archives
