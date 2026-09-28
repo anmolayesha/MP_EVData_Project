@@ -199,37 +199,27 @@ results/
 
 ### Station Load Patterns
 
-Annual charging load patterns for different EV charging stations during 2024.
-
-![Station Load Patterns](figures/01_station_load_patterns.png)
+![Station Load Patterns](report/figures_used/station_load_patterns.png)
 
 
 ### Daily Load Profiles by Station Type
 
-Average daily charging behavior comparison among different station categories.
-
-![Station Type Comparison](figures/02_station_type_comparison_daily.png)
+![Station Type Comparison](report/figures_used/02_station_type_comparison_daily.png)
 
 
 ### Charging Pattern Clustering
 
-K-means clustering identifies representative daily charging shapes.
-
-![K-means Clustering](figures/03_kmeans_results_cluster_shapes.png)
+![K-means Clustering](report/figures_used/03_kmeans_results_cluster_shapes.png)
 
 
-### Machine Learning Interpretation
+### SHAP Feature Importance
 
-SHAP analysis explains the important time features influencing station classification.
-
-![SHAP Feature Importance](figures/04_rf_shap_results_shap_overall_importance.png)
+![SHAP Feature Importance](report/figures_used/04_rf_shap_results_shap_overall_importance.png)
 
 
-### Charging Simultaneity Analysis
+### Simultaneity Contribution
 
-Contribution of each station to the system combined peak demand.
-
-![Simultaneity Contribution](figures/05_simultaneity_contribution.png)
+![Simultaneity Contribution](report/figures_used/05_simultaneity_contribution.png)
 
 ## Author
 
