@@ -264,13 +264,13 @@ The project provides:
 
 ## 3. Peak–Valley Difference Analysis
 
-![Peak Valley Difference](report/figures_used/peak_valley_difference_by_archetype_log.png)
+![Peak Valley Difference](report/figures_used/peak_valley_difference.png)
 
 
 
 ## 4. Load Factor Analysis
 
-![Load Factor](report/figures_used/load_activity_factor_by_archetype.png)
+![Load Factor](report/figures_used/load_factor.png)
 
 
 
