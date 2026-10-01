@@ -52,7 +52,7 @@ MP_EVData_Project/
 ├── README.md
 
 ├── notebooks/
-│   └── 01_MP_EVData_Reproducible_Analysis.ipynb
+│   └── MP_EVData_Reproducible_Analysis.ipynb
 
 ├── data/
 │   └── Raw dataset files (not included)
@@ -299,7 +299,7 @@ The project provides:
 All analysis steps are implemented in:
 
 ```
-notebooks/01_MP_EVData_Reproducible_Analysis.ipynb
+notebooks/MP_EVData_Reproducible_Analysis.ipynb
 ```
 
 
